@@ -11,8 +11,7 @@ public class ApiGatewayApplication {
 		System.out.println("feature3");
 		System.out.println("Typing from GitHub");
 		System.out.println("saravana");
-		System.out.println("uniqtech");
-
+		System.out.println("CommonTech");
 	}
 
 
