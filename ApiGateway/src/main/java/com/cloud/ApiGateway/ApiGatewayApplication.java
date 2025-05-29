@@ -10,6 +10,7 @@ public class ApiGatewayApplication {
 		SpringApplication.run(ApiGatewayApplication.class, args);
 		System.out.println("feature3");
 		System.out.println("Typing from GitHub");
+		System.out.println("kko");
 	}
 
 
